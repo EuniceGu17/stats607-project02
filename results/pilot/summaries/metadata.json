@@ -1,0 +1,6 @@
+{
+  "raw_sha256": "4232695c55ba7286f98d6c3601ec2c505fb9539958f0f73b98bffb8b281fa532",
+  "summary_sha256": "8e9c8e03637bdad0877700a7ec4bbf974aaca636cdadd669fe08ba3cfe7f8be0",
+  "analysis_seconds": 0.1851271246559918,
+  "note": "MCSEs quantify our simulation uncertainty; original MCSEs are unavailable."
+}

@@ -1,0 +1,2 @@
+scenario_id,experiment,m,pi0,mu,gamma,lambda,replicates,label_mode,power_difference,mcse,n,ci_low,ci_high
+p0.8_mu2_g0.001,baseline,1000,0.8,2,0.001,0.5,5000,bernoulli,0.0241618593147,0.000273967653741,5000,0.0236248827134,0.024698835916

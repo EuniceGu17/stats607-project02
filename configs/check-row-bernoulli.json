@@ -1,0 +1,18 @@
+{
+  "m": 1000,
+  "pi0_values": [
+    0.8
+  ],
+  "mu_values": [
+    2.0
+  ],
+  "gamma_values": [
+    0.001
+  ],
+  "lambda": 0.5,
+  "replicates": 5000,
+  "master_seed": 20261016,
+  "label_mode": "bernoulli",
+  "cap_pi0": false,
+  "cap_fdr": true
+}
