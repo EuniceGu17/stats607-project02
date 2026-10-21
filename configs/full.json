@@ -1,0 +1,12 @@
+{
+  "m": 1000,
+  "pi0_values": [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9],
+  "mu_values": [1.0, 2.0, 3.0],
+  "gamma_values": [0.001, 0.01],
+  "lambda": 0.5,
+  "replicates": 1000,
+  "master_seed": 20261006,
+  "label_mode": "fixed",
+  "cap_pi0": false,
+  "cap_fdr": true
+}
