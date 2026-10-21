@@ -1,5 +1,7 @@
 # Reproducing Storey (2002): FDR estimation and power
 
+My repository URL is [here](https://github.com/EuniceGu17/stats607-project02).
+
 This project reproduces the simulation comparison in Section 5 of Storey
 (2002), using Table 2 and Figure 1 as references, and extends it to weaker and
 stronger signals. The Python pipeline generates independent tests, applies
